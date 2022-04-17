@@ -2,6 +2,8 @@
 sc simple tapi berkelas
 
 author @Sptty Chan
+# login
+cookies
 # cara pemasangan
 $ pkg upgrade && pkg update
 
